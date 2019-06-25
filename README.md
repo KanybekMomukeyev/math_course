@@ -114,3 +114,11 @@ version 0.16.x is no longer backwards compatible and requires the Dart SDK 2.0
 * Mina Azib – [Resources for Preparing for the Google Interview](http://itsallonesandzeroes.blogspot.ro/2013/07/prepping-for-google-interview.html)
 * [u/RunninADorito](https://www.reddit.com/user/RunninADorito) – [How to Prepare for Tech Interviews](https://www.reddit.com/r/cscareerquestions/comments/1jov24/heres_how_to_prepare_for_tech_interviews/)
 * Bill Sourour – [How To Win the Coding Interview](https://blog.devmastery.com/how-to-win-the-coding-interview-71ae7102d685)
+
+
+Виды учебников
+Если в общем смотреть, то есть, 4-вида учебников по математике.
+1. Математические специальности
+2. 
+RxDart is a reactive functional programming library for Google Dart, based on ReactiveX.
+Google Dart comes with a very decent Streams API out-of-the-box; rather than attempting to provide an alternative to this API, RxDart adds functionality on top of it.
