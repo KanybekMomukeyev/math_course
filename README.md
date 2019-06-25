@@ -2,7 +2,7 @@
 
 ### Курс по высшей математике
 
-* [Algorithms](#algorithms)
+* [Школьный курс анализа](#algorithms)
 	* [Books](#books-1)
 	* [Coding Practice](#coding-practice)
 	* [Guides](#guides)
