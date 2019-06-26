@@ -3,9 +3,10 @@
 
 
 ## Задача кураса
-Любая прикладная дисциплина требует мин знаниий математикческого аппарата
+Любая прикладная дисциплина требует мин знаниий математикческого аппарата.
 Данный курс поможет вам получить тот самый минимум.
 Умение самостоятельно работать.
+Курс будет проходить 3 раза в неделью. Адрес будет указан позже
 
 ## Version
 Version 1.0 is supported until release 0.15.x,
@@ -36,6 +37,7 @@ Version 1.0 is supported until release 0.15.x,
 *Found a dead link? Try [archive.is](http://archive.is/) or the [Wayback Machine](https://archive.org/web/).*
 
 ## Школьный курс математики
+Повторение школьного курса математики.
 
 ### Теория
 
@@ -47,43 +49,22 @@ Version 1.0 is supported until release 0.15.x,
 * [СКАНАВИ](https://www.labirint.ru/books/423992/)
 * [СКАНАВИ РЕШЕБНИК](https://www.labirint.ru/books/14410/)
 
-### Математический анализ 1
 
-* [GeeksForGeeks – A CS portal for geeks](http://www.geeksforgeeks.org/)
-* [Learneroo – Algorithms](https://www.learneroo.com/subjects/8)
-* [Top Coder tutorials](http://www.topcoder.com/tc?d1=tutorials&d2=alg_index&module=Static)
-* [Infoarena training path](http://www.infoarena.ro/training-path) (RO)
-* Steven & Felix Halim – [Increasing the Lower Bound of Programming Contests](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=118) (UVA Online Judge)
+## Математический анализ 1 (Calculus)
 
-### Misc
 
-* [Top 10 Algorithms in Interview Questions](http://www.geeksforgeeks.org/top-10-algorithms-in-interview-questions/)
-* [Hard interview questions that have a short recursive solution](https://www.quora.com/What-are-some-of-the-hardest-programming-questions-asked-during-an-interview-from-Google-Facebook-Microsoft-Amazon-Quora-Linkedin-Apple-Yahoo-etc-that-can-be-coded-in-a-few-lines-with-a-recursive-solution)
+### Теория
 
-## Guides
+* Пискунов часть 1 – [Высшмат]()
+* Пискунов часть 2 – [Высшмат]()
+* Фихтенгольц часть 1 – [Get That Job at Facebook](https://www.facebook.com/notes/10150964382448920)
+* Фихтенгольц часть 2 – [How to Prepare for Technical Interviews](http://dandreamsofcoding.com/2012/11/25/how-to-prepare-for-technical-interviews/)
+* Зорич часть 1 – [ABC: Always Be Coding](https://medium.com/tech-talk/d5f8051afce2)
 
-### Articles
+### Практика
 
-* Steve Yegge – [Get That Job at Google](http://steve-yegge.blogspot.co.uk/2008/03/get-that-job-at-google.html)
-* Steve Yegge – [Ten Tips for a (Slightly) Less Awful Resume](http://steve-yegge.blogspot.co.uk/2007_09_01_archive.html)
-* Carlos Bueno – [Get That Job at Facebook](https://www.facebook.com/notes/10150964382448920)
-* Daniel Blumenthal – [How to Prepare for Technical Interviews](http://dandreamsofcoding.com/2012/11/25/how-to-prepare-for-technical-interviews/)
-* David Byttow – [ABC: Always Be Coding](https://medium.com/tech-talk/d5f8051afce2)
-* David Byttow – [Four Steps to Google, Without a Degree](https://medium.com/this-happened-to-me/8f381aa6bd5e)
-* Thomas L. Friedman – How to Get a Job at Google [[part 1](http://mobile.nytimes.com/2014/02/23/opinion/sunday/friedman-how-to-get-a-job-at-google.html)] [[part 2](http://mobile.nytimes.com/2014/04/20/opinion/sunday/friedman-how-to-get-a-job-at-google-part-2.html)]
-* Andrew Rothbart – [Preparing for a technical interview with programming contests](https://www.facebook.com/notes/10151298476823920)
-* Mina Azib – [Resources for Preparing for the Google Interview](http://itsallonesandzeroes.blogspot.ro/2013/07/prepping-for-google-interview.html)
-* [u/RunninADorito](https://www.reddit.com/user/RunninADorito) – [How to Prepare for Tech Interviews](https://www.reddit.com/r/cscareerquestions/comments/1jov24/heres_how_to_prepare_for_tech_interviews/)
-* Bill Sourour – [How To Win the Coding Interview](https://blog.devmastery.com/how-to-win-the-coding-interview-71ae7102d685)
-* Ammon Bartram – [How To Pass a Programming Interview](http://blog.triplebyte.com/how-to-pass-a-programming-interview)
-
-### Books
-
-* Gayle McDowell – [The Google Resume](https://www.amazon.com/Google-R%C3%A9sum%C3%A9-Prepare-Microsoft-Company/dp/151138459X)
-* Gayle McDowell – [Cracking the Coding Interview](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
-* Giguere, Mongan, Kindler – [Programming Interviews Exposed](https://www.amazon.com/Programming-Interviews-Exposed-Secrets-Landing/dp/1118261364)
-* Aziz, Lee, Prakash – [Elements of Programming Interviews](https://www.amazon.com/dp/1479274836/) [[code](https://code.google.com/archive/p/elements-of-programming-interviews/)]
-* Narashima Karumanchi – [Coding Interview Questions](https://www.amazon.com/Coding-Interview-Questions-Narasimha-Karumanchi/dp/1475293534)
+* Демидович – [Задачи по мат анализу](https://www.amazon.com/Google-R%C3%A9sum%C3%A9-Prepare-Microsoft-Company/dp/151138459X)
+* АнтиДемидович часть 1 – [Решения задач](https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850)
 
 ### Courses
 
