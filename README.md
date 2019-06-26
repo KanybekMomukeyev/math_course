@@ -34,7 +34,7 @@ Version 1.0 is supported until release 0.15.x,
 	* [Теория](#books-1)
 	* [Практика](#articles)
 	* [Курсы от Coursera](#courses)
-*Found a dead link? Try [archive.is](http://archive.is/) or the [Wayback Machine](https://archive.org/web/).*
+
 
 ## Школьный курс математики
 Повторение школьного курса математики.
