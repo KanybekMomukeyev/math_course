@@ -70,7 +70,7 @@ Version 1.0 is supported until release 0.15.x,
 
 ### Онлайн видеоуроки
 
-* MIT – [Hacking a Google Interview](https://courses.csail.mit.edu/iap/interview/materials.php)
+* MIT – [Не верная ссылка](https://courses.csail.mit.edu/iap/interview/materials.php)
 
 ## Математический анализ 2 (Calculus 2)
 
