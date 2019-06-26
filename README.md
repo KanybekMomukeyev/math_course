@@ -8,6 +8,8 @@
 Умение самостоятельно работать.
 Курс будет проходить 3 раза в неделью. Адрес и время старта будет указан позже
 
+* ЯНДЕКС – [Общая программа ВТУЗА](https://yandexdataschool.ru/admission/adm-program)
+
 ## Version
 Version 1.0 is supported until release 0.15.x,
 
