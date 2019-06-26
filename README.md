@@ -107,6 +107,7 @@ Version 1.0 is supported until release 0.15.x,
 ### Практика
 
 * Вентцель –  [Задачи и упражнения по Теории Веротяностей](https://github.com/donnemartin/interactive-coding-challenges)
+* Яндекс –  [Как поступить в Школу](https://yandexdataschool.ru/admission)
 
 ##
 ### От себя пару слов
